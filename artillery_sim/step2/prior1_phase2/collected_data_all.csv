@@ -1,0 +1,12 @@
+,name,n_fails,n_total
+1,IgnitePropellant,1,1
+2,SealGas,2,4
+3,GeneratePressure,0,0
+4,InitiateInflightPower,0,0
+5,ModifyAttitude,3,6
+6,ArmWarheadFuze,1,5
+7,SendFireCommand,0,1
+8,Launch,0,0
+9,BallisticFlight,3,4
+10,TerminalEffects,1,1
+11,System,1,1

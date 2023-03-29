@@ -1,0 +1,4 @@
+IgnitePropellant,SealGas,GeneratePressure,InitiateInflightPower,ModifyAttitude,ArmWarheadFuze,SendFireCommand,Launch,BallisticFlight,TerminalEffects,System,System.1,red_system.1
+0,2,0,0,3,2,1,0,3,0,1,0.275988,0.486517
+0,0,0,0,3,1,0,0,3,0,1,0.298611,0.48407
+0,1,0,0,3,3,0,0,2,1,1,0.272759,0.509452
